@@ -9,4 +9,4 @@ Police Where it came from: City of Chicago How often it is updated: when police 
 
 # Git Scraping - Graph 1
 
-1. Replace your chart link here: [[https://www.datawrapper.de/_/B4OIw](https://www.datawrapper.de/_/iec2o/)](https://www.datawrapper.de/_/wvyxQ/)
+1. Replace your chart link here: (https://www.datawrapper.de/_/wvyxQ/)
