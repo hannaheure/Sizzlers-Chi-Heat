@@ -1,4 +1,7 @@
 pandas
 numpy
+matplotlib.pyplot
+requests
+geopandas
 notebook
 keplergl
