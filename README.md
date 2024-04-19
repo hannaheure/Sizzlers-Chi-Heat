@@ -9,4 +9,12 @@ Police Where it came from: City of Chicago How often it is updated: when police 
 
 # Git Scraping - Graph 1
 
-1. Replace your chart link here: (https://www.datawrapper.de/_/wvyxQ/)
+1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/wvyxQ/)
+
+# Git Scraping - Graph 2 (Wards)
+
+1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/PucTO/)
+
+# Git Scraping - Graph 3 (Police Districts)
+
+1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/zeCDx/)
