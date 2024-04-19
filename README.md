@@ -3,10 +3,14 @@ This is a repository for our final project.
 
 # Describing each dataset in the project:
 ## Building violations dataset
-- Description: Violations issued by the Department of Buildings from 2006 to the present
-- Where it came from: Data provided by City of Chicago but came from the Department of Buildings
-- How often it is updated: Daily
-- Period of data: From January 2006 to present
+- Description:
+  - Violations issued by the Department of Buildings from 2006 to the present
+- Where it came from:
+  - Data provided by City of Chicago but came from the Department of Buildings
+- How often it is updated:
+  - Daily
+- Period of data:
+  - From January 2006 to present
   
 ## Ward dataset
 - Description: Ward boundaries in Chicago from May 2015 to May 2023
