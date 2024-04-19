@@ -1,6 +1,8 @@
 # Sizzlers-Chi-Heat
 This is a repository for our final project.
 
+## Description of Project and How We Executed It
+
 # Describing each dataset in the project:
 ## Building violations dataset
 - Description:
