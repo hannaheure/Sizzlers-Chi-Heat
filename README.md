@@ -3,7 +3,7 @@ This is a repository for our final project.
 
 # The Project and How We Executed It
 
-  # Describing each dataset in the project:
+# Describing each dataset in the project:
 ## Building violations dataset
 - Description:
   - Violations issued by the Department of Buildings from 2006 to the present
