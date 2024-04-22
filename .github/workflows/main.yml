@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper
-        run: jupyter execute final_analysis.ipynb
+        run: jupyter execute notebook.ipynb
           
       - name: Add and commit
         id: add_commit
