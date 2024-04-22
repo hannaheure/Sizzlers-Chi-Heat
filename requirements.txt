@@ -6,3 +6,4 @@ requests
 geopandas
 notebook
 keplergl
+folium
