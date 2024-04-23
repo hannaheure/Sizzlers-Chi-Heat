@@ -1,8 +1,48 @@
 # Sizzlers-Chi-Heat
 This is a repository for our final project.
 
-Building Violations Where it came from: Violations issued by the Department of Buildings How often it is updated: daily Period of data: 2006-present
+# The Project and How We Executed It
 
-Ward Where it came from: City of Chicago How often it is updated: as needed Period of data: May 2015 - May 2023
+# Describing each dataset in the project:
+## Building violations dataset
+- Description:
+  - Violations issued by the Department of Buildings from 2006 to the present
+- Where it came from:
+  - Data provided by City of Chicago but came from the Department of Buildings
+- How often it is updated:
+  - Daily
+- Period of data:
+  - From January 2006 to present
+  
+## Ward dataset
+- Description:
+  - Ward boundaries in Chicago from May 2015 to May 2023
+- Where it came from:
+  - Data provided by City of Chicago
+- How often it is updated:
+  - As needed
+- Period of data:
+  - From May 2015 to May 2023
+  
+## Police dataset
+- Description:
+  - Current police district boundaries in Chicago
+- Where it came from:
+  - Data provided by City of Chicago but came from Police (owner)
+- How often it is updated:
+  - As needed, which is when police district boundaries are revised and implemented
+- Period of data:
+  - From December 2012 to July 2018
+    - Note: The data is current since there has not been any change regarding the police district boundaries since 2018
 
-Police Where it came from: City of Chicago How often it is updated: when police district boundaries are revised and implemented Period of data: December 2012-July 11
+# Git Scraping - Graph 1
+
+1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/wvyxQ/)
+
+# Git Scraping - Graph 2 (Wards)
+
+1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/PucTO/)
+
+# Git Scraping - Graph 3 (Police Districts)
+
+1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/zeCDx/)

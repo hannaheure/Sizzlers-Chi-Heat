@@ -1,4 +1,9 @@
 pandas
 numpy
+matplotlib
+mapclassify
+requests
+geopandas
 notebook
 keplergl
+folium
