@@ -9,6 +9,9 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    permissions:
+        contents: read
+        pages: write  
     steps:
       - name: Check out repo
         uses: actions/checkout@v4 
