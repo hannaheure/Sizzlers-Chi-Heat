@@ -1,5 +1,5 @@
 # Sizzlers-Chi-Heat
-This is a repository for our final project.
+- This is a repository for our final project.
 
 # The Project and How We Executed It
 
