@@ -37,13 +37,8 @@ This is a repository for our final project.
 
 # Links to Our Graphs
 
-## Graph 1
-- Link to graph: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/wvyxQ/)
+- Graph 1 Link: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/wvyxQ/)
 
-## Graph 2 (Wards)
+- Graph 2 Link: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/PucTO/)
 
-- Link to graph: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/PucTO/)
-
-## Graph 3 (Police Districts)
-
-- Link to graph: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/zeCDx/)
+- Graph 3 Link [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/zeCDx/)
