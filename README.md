@@ -35,14 +35,15 @@ This is a repository for our final project.
   - From December 2012 to July 2018
     - Note: The data is current since there has not been any change regarding the police district boundaries since 2018
 
-# Git Scraping - Graph 1
+# Links to Our Graphs
 
-1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/wvyxQ/)
+##Graph 1
+- Link to graph: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/wvyxQ/)
 
-# Git Scraping - Graph 2 (Wards)
+##Graph 2 (Wards)
 
-1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/PucTO/)
+- Link to graph: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/PucTO/)
 
-# Git Scraping - Graph 3 (Police Districts)
+##Graph 3 (Police Districts)
 
-1. Replace your chart link here: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/zeCDx/)
+- Link to graph: [(https://www.datawrapper.de/_/wvyxQ/)](https://www.datawrapper.de/_/zeCDx/)
