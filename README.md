@@ -3,6 +3,11 @@ This is a repository for our final project.
 
 # The Project and How We Executed It
 
+Article for Our Project: https://www.wbez.org/stories/more-chicagoans-lacked-heat-in-january-than-any-month-since-2019-amid-historic-cold/1867a9ae-61fb-48a7-8d3e-24cdcedce594
+
+The goal of our project was to recreate and automate the analysis of heat complaints in Chicago from the article above. We also needed to recreate each visualization in the story (two graphs) with Datawrapper. The "final_analysis" notebook contains a comprehensive view of all the code we used for thsi whole project. After having all the code we needed to recreate the graphs in the article, we linked the data from our repo to our datawrapper graphs, and then automated it by using a Git Scraper. 
+
+
 # Describing each dataset in the project:
 ## Building violations dataset
 - Description:
