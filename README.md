@@ -9,7 +9,7 @@
 ## Brief description of the project and explaining our git scraper’s execution:
 - The goal of our project was to recreate and automate the analysis of heat complaints in Chicago from the article above. We also needed to recreate each visualization in the story (two graphs) with Datawrapper.
 
-- The "final_analysis" notebook contains a comprehensive view of all the code we used for this whole project. We used the "final_analysis" notebook to make sure we had everything in the python requirements checklist and the correct data for our graphs. After having the code we needed to recreate the graphs in the article, we created our graphs on Datawrapper by linking the data from our repo to our datawrapper graphs and then automated it by using a Git Scraper. We have automated the data and graphs to update once a month on the first of every month.
+- The "final_analysis" notebook contains a comprehensive view of all the code we used for this whole project. We used the "final_analysis" notebook to make sure we had everything in the python requirements checklist and the correct data for our graphs. After having the code we needed to recreate the graphs in the article, we created our graphs on Datawrapper by linking the data from our repo to our datawrapper graphs and then automated it by using a Git Scraper. We have automated the data and graphs to update at 12:00 AM on day 1 of the month.
 
 - We ended up creating 3 graphs
     - Graph 1 shows the the number of heat violations (AKA no-heat complaints) by month and year obtained via data from the Department of Buildings
